@@ -1,2 +1,9 @@
-# dev-web22
- (Udemy) Curso Dev Web 2022 - HTML5, CSS3, SASS, Bootstrap4, JS, ES6, PHP7, Orientação a Objetos, MySQL, PHP com PDO, Ajax, JQuery, MVC, APIs, IONIC, WordPress
+# Projetos
+## Spotify https://diogo-xavier.github.io/dev-web22/projeto8/index.html
+## Finans https://diogo-xavier.github.io/dev-web22/projeto7/index.html
+## Museu Nacional https://diogo-xavier.github.io/dev-web22/projeto6/index.html
+## Chalé Hotel https://diogo-xavier.github.io/dev-web22/projeto5/index.html
+## Notícias Cidade https://diogo-xavier.github.io/dev-web22/projeto4/index.html
+## TechBlog https://diogo-xavier.github.io/dev-web22/projeto3/index.html
+## Anna Bella https://diogo-xavier.github.io/dev-web22/projeto2/index.html
+## Unes Universidade https://diogo-xavier.github.io/dev-web22/projeto1/index.html
