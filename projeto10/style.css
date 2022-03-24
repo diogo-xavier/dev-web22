@@ -1,14 +1,12 @@
 html {
-    cursor: url('img/mata_mosca.png') 30 30, auto;
+    cursor: url('imagens/mata-mosquito.png') 30 30, auto;
 }
 
 body {
-    background-image: url('img/bg.jpg');
-    background-repeat: no-repeat;
-    background-size: 100%;
-
-
+    background: url(imagens/bg.jpg) no-repeat ;
+    background-size: cover;
 }
+
 .mosquito1 {
     width: 50px;
     height: 50px;
@@ -33,15 +31,15 @@ body {
 }
 
 .painel {
+    background-color: #fff;
+    width: 190px;
+    padding: 10px;
+    border-top: 1 px solid #fff;
+    border-radius: 15px;
+    opacity: 0.7;
     position: absolute;
     bottom: 0;
     left: 0;
-    width: 190px;
-    padding: 10px;
-    border-top: 1px solid #fff;
-    background-color: #fff;
-    opacity: 0.7;
-    border-radius: 15px;
 }
 
 .vidas {
@@ -50,5 +48,6 @@ body {
 
 .cronometro {
     float: left;
-    font: 20px bold;
+    font-size: 20px;
+    font-weight: bold;
 }
